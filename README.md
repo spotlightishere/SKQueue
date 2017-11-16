@@ -22,7 +22,7 @@ pod 'SKQueue'
 
 ## Author
 
-Spotlight, awesomebing1@gmail.com
+Daniel Pedersen, mail@danielpedersen.me
 
 ## License
 

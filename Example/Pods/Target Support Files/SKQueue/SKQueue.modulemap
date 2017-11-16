@@ -1,0 +1,6 @@
+framework module SKQueue {
+  umbrella header "SKQueue-umbrella.h"
+
+  export *
+  module * { export * }
+}

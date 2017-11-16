@@ -1,0 +1,22 @@
+{
+  "name": "SKQueue",
+  "version": "0.1.0",
+  "summary": "A short description of SKQueue.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Spotlight/SKQueue",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Spotlight": "awesomebing1@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Spotlight/SKQueue.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SKQueue/Classes/**/*"
+}

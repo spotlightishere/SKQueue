@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SKQueue'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of SKQueue.'
+  s.version          = '1.1'
+  s.summary          = 'A simple and efficient Swift library that uses kernel event notifications (kernel queues or kqueue) to monitor changes to the filesystem.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,22 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Spotlight/SKQueue'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.homepage         = 'https://github.com/spotlightishere/SKQueue'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Spotlight' => 'awesomebing1@gmail.com' }
+  s.author           = { 'Daniel Pedersen' => 'mail@danielpedersen.me' }
   s.source           = { :git => 'https://github.com/Spotlight/SKQueue.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.osx.deployment_target = '10.11'
+  s.platform = :osx
 
   s.source_files = 'SKQueue/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'SKQueue' => ['SKQueue/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.frameworks = 'Foundation'
 end
