@@ -27,7 +27,7 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/Spotlight/SKQueue.git', :tag => s.version.to_s }
 
   s.osx.deployment_target = '10.11'
-  s.platform = :osx
+  s.platform = :osx, '10.11'
 
   s.source_files = 'SKQueue/Classes/**/*'
   s.frameworks = 'Foundation'
