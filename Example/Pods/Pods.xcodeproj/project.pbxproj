@@ -27,22 +27,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0BF9CABE4ED758AAF2181722BE4EBAFA /* Pods-SKQueue_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-SKQueue_Tests.modulemap"; sourceTree = "<group>"; };
+		0BF9CABE4ED758AAF2181722BE4EBAFA /* Pods-SKQueue_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-SKQueue_Tests.modulemap"; sourceTree = "<group>"; };
 		2A963369454A5CDD4BAECF78FEDAD2AF /* Pods-SKQueue_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SKQueue_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		513B81B3DAB86528F25AB056B7C228D7 /* Pods-SKQueue_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SKQueue_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		621CDDCEE01439972FB404FA650627C4 /* Pods-SKQueue_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SKQueue_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		6FE214217DCDEACA6F455EE2A6715B04 /* SKQueue-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SKQueue-dummy.m"; sourceTree = "<group>"; };
 		7DDF24110FC64FC294F6997D6AEF7747 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		86A51EF514EB29118E5B9C03BE41EAA0 /* SKQueue.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SKQueue.framework; path = SKQueue.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		93AACB7952969FD630F445D451ED59B0 /* SKQueue.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SKQueue.modulemap; sourceTree = "<group>"; };
+		86A51EF514EB29118E5B9C03BE41EAA0 /* SKQueue.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SKQueue.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93AACB7952969FD630F445D451ED59B0 /* SKQueue.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = SKQueue.modulemap; sourceTree = "<group>"; };
 		B5475FBB3639E1CB80ECEB89D0669E30 /* Pods-SKQueue_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SKQueue_Tests-umbrella.h"; sourceTree = "<group>"; };
 		BFAEFDA184F34AD5E464AE0E1EAEF397 /* Pods-SKQueue_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SKQueue_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		CD016560D2F9D86451203DE8CE430B82 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D7F173F1E57F18ECE4425E6E5C5CB8BE /* SKQueue-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SKQueue-prefix.pch"; sourceTree = "<group>"; };
 		D948E923F9D31AB072348B7EDB8E3527 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = SKQueue/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
-		DEE935035A1801F9E973D2EDD579C2C6 /* Pods_SKQueue_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SKQueue_Tests.framework; path = "Pods-SKQueue_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DEE935035A1801F9E973D2EDD579C2C6 /* Pods_SKQueue_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SKQueue_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E316DCF73F77C212777B08DB464B979F /* SKQueue.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SKQueue.xcconfig; sourceTree = "<group>"; };
 		E705DB252BDC7EC3B280DDCA428A10A1 /* Pods-SKQueue_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SKQueue_Tests-resources.sh"; sourceTree = "<group>"; };
 		EAD90880CAB4C379E3DBBF913C26D1E1 /* SKQueue-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SKQueue-umbrella.h"; sourceTree = "<group>"; };
@@ -378,6 +378,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				MODULEMAP_FILE = "Target Support Files/Pods-SKQueue_Tests/Pods-SKQueue_Tests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
@@ -385,7 +386,7 @@
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = Pods_SKQueue_Tests;
-				SDKROOT = iphoneos;
+				SDKROOT = macosx10.12;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -417,6 +418,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				MODULEMAP_FILE = "Target Support Files/Pods-SKQueue_Tests/Pods-SKQueue_Tests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
@@ -424,7 +426,7 @@
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = Pods_SKQueue_Tests;
-				SDKROOT = iphoneos;
+				SDKROOT = macosx10.12;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 3.0;
