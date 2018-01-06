@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SKQueue'
-  s.version          = '1.1'
+  s.version          = '1.2'
   s.summary          = 'A simple and efficient Swift library that uses kernel event notifications (kernel queues or kqueue) to monitor changes to the filesystem.'
 
 # This description is used to generate tags and improve search results.
@@ -26,8 +26,8 @@ TODO: Add long description of the pod here.
   s.author           = { 'Daniel Pedersen' => 'mail@danielpedersen.me' }
   s.source           = { :git => 'https://github.com/Spotlight/SKQueue.git', :tag => s.version.to_s }
 
-  s.osx.deployment_target = '10.11'
-  s.platform = :osx, '10.11'
+  s.osx.deployment_target = '10.10'
+  s.platform = :osx, '10.10'
 
   s.source_files = 'SKQueue/Classes/**/*'
   s.frameworks = 'Foundation'
